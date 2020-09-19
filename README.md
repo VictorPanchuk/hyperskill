@@ -1,2 +1,2 @@
 # hyperskill
-Trainee projects
+Trainee projects and code examples 
